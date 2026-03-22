@@ -1,0 +1,1 @@
+'tolower($0) ~ /access=|admin=|dbg=|debug=|edit=|grant=|test=|alter=|clone=|creat'
