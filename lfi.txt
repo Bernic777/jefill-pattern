@@ -1,0 +1,1 @@
+'/file=|path=|page=|dir=|folder=|doc=|url=|template=|include=|layout=/'
