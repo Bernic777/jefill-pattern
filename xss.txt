@@ -1,0 +1,1 @@
+'/q=|query=|search=|id=|name=|keyword=|view=|page=|title=/'
