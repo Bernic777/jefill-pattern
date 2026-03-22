@@ -1,0 +1,1 @@
+/upload=|file=|img=|image=|avatar=|doc=|pdf=|attachment=|pic=|photo=|media=|csv=|xls=|xlsx=|ppt=|pptx=|docx=|zip=|rar=|tar=|gz=|exe=|msi=|apk=|ipa=|dmg=|iso=|bin=|dat=|backup=|resume=|cv=|logo=|banner=|icon=|thumb=|profile_pic=|user_photo=|upload_file=|upload_image=|upload_doc=/

@@ -1,0 +1,1 @@
+i=2;i<=NF;i++){split($i,a,"=");k=dom":"a[1];if(!seen[k]++){print $1"?"a[1]"="}}}

@@ -1,1 +1,1 @@
-'/q=|query=|search=|id=|name=|keyword=|view=|page=|title=/'
+/q=|query=|search=|id=|name=|keyword=|view=|page=|title=|cat=|post=|user=|message=|comment=|feedback=|url=|redirect=|return=|dest=|next=|link=|path=|file=|lang=|lang=/

@@ -1,0 +1,1 @@
+tolower($0) ~ /\/api\/|\/v[0-9]+\/|\/swagger\/|\/api-docs\/|\/rest\/|\/graphql\/|\/gql\/|\/rpc\/|\/grpc\/|\/odata\/|\/soap\/|\/ws\/|\/webhooks\/|\/callback\/|\/endpoint\/|\/gateway\/|\/service\/|\/v1\/|\/v2\/|\/v3\/|\/v4\/|\/latest\//

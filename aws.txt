@@ -1,0 +1,1 @@
+tolower($0) ~ /s3\.amazonaws\.com|s3-[a-z0-9-]+\.amazonaws\.com|amazonaws\.com\/[^\/]+\/|\.s3\.|s3\.|amazonaws\.com\//

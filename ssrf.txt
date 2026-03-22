@@ -1,0 +1,1 @@
+/url=|uri=|host=|proxy=|fetch=|req=|out=|endpoint=|webhook=|domain=|api=|path=|file=|load=|image=|img=|src=|source=|destination=|dest=|forward=|redirect=|call=|service=|target=|destination_url=|base_url=|callback_url=/

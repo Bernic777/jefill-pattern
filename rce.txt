@@ -1,0 +1,1 @@
+/cmd=|exec=|command=|ping=|cli=|query=|sys=|daemon=|eval=|run=|execute=|system=|shell=|passthru=|proc=|popen=|pcntl_exec=|backtick=|assert=|include=|require=|create_function=|preg_replace=|call_user_func=|array_map=|usort=|uksort=|uasort=|ob_start=|mb_ereg_replace=|register_shutdown_function=|register_tick_function=/

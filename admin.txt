@@ -1,1 +1,1 @@
-'tolower($0) ~ /access=|admin=|dbg=|debug=|edit=|grant=|test=|alter=|clone=|creat'
+tolower($0) ~ /admin=|access=|dbg=|debug=|edit=|grant=|test=|alter=|clone=|create=|drop=|insert=|update=|delete=|exec=|eval=|system=|shell=|passwd=|password=|key=|token=|secret=|api_key|auth=|oauth=|sso=|login=|register=|signup=|signin=|reset=|forgot=|backup=|restore=/

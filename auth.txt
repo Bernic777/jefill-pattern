@@ -1,0 +1,1 @@
+tolower($0) ~ /login|register|signup|signin|auth|oauth|sso|password|reset|forgot|logout|signout|logout|verify|activate|confirm|unsubscribe|subscribe|profile|account|settings|preferences|user|admin|dashboard|my-account|me|api-key|token|jwt|session|cookie|csrf|xsrf/
